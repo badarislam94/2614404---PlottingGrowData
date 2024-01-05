@@ -1,0 +1,5 @@
+1 - Install the mentioned libraries in code if not already installed. 
+2 - Open VS Code. 
+3 - Open 2614404growdataplot.py file in VS code and run it. It will display the final result. 
+4 - If the map image and dataset are in different locations kindly paste the complete path in respective code snippets. 
+5 - Expected Final result is also placed here. 
